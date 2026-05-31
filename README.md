@@ -54,9 +54,9 @@ Chatnova/
 ---
 ```
 ## 📷 ScreenShot
-<img width="1918" height="1078" alt="Chatnova2" src="https://github.com/user-attachments/assets/6131af82-0dab-4f5f-b1ed-37c108af3b19" />
-<img width="1918" height="1078" alt="Chatnova1" src="https://github.com/user-attachments/assets/3f7e1eb6-1f9b-4a8b-893d-527743961812" />
-<img width="1918" height="1078" alt="Chatnova" src="https://github.com/user-attachments/assets/c13c8b93-f521-4514-b076-1d73bfccb73f" />
-<img width="1918" height="1078" alt="Chatnova4" src="https://github.com/user-attachments/assets/8bf8ac8a-6ec9-4a4e-a738-1c4f4c8f2376" />
+<img width="1919" height="904" alt="Screenshot 2026-05-30 163508" src="https://github.com/user-attachments/assets/96e2bc3c-c9e8-4baa-9222-f43b5fb93dd8" />
+<img width="1919" height="910" alt="Screenshot 2026-05-30 163454" src="https://github.com/user-attachments/assets/f2146e83-ba2c-4624-a346-4be5014a82f1" />
+<img width="1918" height="907" alt="Screenshot 2026-05-30 163538" src="https://github.com/user-attachments/assets/632be445-28a7-4621-989c-7b3266ff6838" />
+
 ---
 <!-- # The project is deployed on Render. You can access the live version here: https://Chatnova-1ds2.onrender.com -->
