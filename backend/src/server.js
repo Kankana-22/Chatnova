@@ -17,7 +17,8 @@ app.use(express.json());
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://chatnova-pi.vercel.app"
+        "https://chatnova-pi.vercel.app",
+        "https://chatnova-cvbtrp8t8-kankanas-projects-2f4bb06e.vercel.app"
     ],
     credentials: true,
 }));
