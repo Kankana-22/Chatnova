@@ -46,19 +46,12 @@ STREAM_API_KEY=your_stream_api_key
 STREAM_API_SECRET=your_stream_api_secret
 ```
 
+## 🚀 Live Demo
 
+🌐 **Live Application:**  
+https://chatnova-ccs8raxdp-kankanas-projects-2f4bb06e.vercel.app
 
-## 📷 ScreenShot
-<img width="1919" height="904" alt="Screenshot 2026-05-30 163508" src="https://github.com/user-attachments/assets/96e2bc3c-c9e8-4baa-9222-f43b5fb93dd8" />
-<img width="1919" height="910" alt="Screenshot 2026-05-30 163454" src="https://github.com/user-attachments/assets/f2146e83-ba2c-4624-a346-4be5014a82f1" />
-<img width="1918" height="907" alt="Screenshot 2026-05-30 163538" src="https://github.com/user-attachments/assets/632be445-28a7-4621-989c-7b3266ff6838" />
-
-
-## Project Demo
-
-You can view the project demonstration here:
-
-[Chatnova Demo](https://drive.google.com/file/d/1P6c0qz2ZXHSmEMg28eQy17m0bGpEjFvU/view?usp=sharing)
-
+🎥 **Demo Video:**  
+https://drive.google.com/file/d/1P6c0qz2ZXHSmEMg28eQy17m0bGpEjFvU/view?usp=sharing
 ---
-<!-- # The project is deployed on Render. You can access the live version here: https://Chatnova-1ds2.onrender.com -->
+
