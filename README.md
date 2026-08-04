@@ -48,7 +48,9 @@ STREAM_API_SECRET=your_stream_api_secret
 
 ## 📸 Demo
 
-- **Live Demo:** [ChatNova](https://chatnova-ccs8raxdp-kankanas-projects-2f4bb06e.vercel.app)
+- **Live Demo:** [ChatNova](https://chatnova-n0n5rjeca-kankanas-projects-2f4bb06e.vercel.app)
+
+- **Backend API:** [ChatNova Backend](https://chatnova-trel.onrender.com)
 
 - **Demo Video:** [Watch Here](https://drive.google.com/file/d/1P6c0qz2ZXHSmEMg28eQy17m0bGpEjFvU/view?usp=sharing)
 ---
