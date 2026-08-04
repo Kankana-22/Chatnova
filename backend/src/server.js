@@ -15,11 +15,17 @@ const app=express();
 app.use(cookieParser());
 app.use(express.json());
 app.use(cors({
-    origin: [
-        "http://localhost:5173",
-        "https://chatnova-pi.vercel.app",
-        "https://chatnova-cvbtrp8t8-kankanas-projects-2f4bb06e.vercel.app"
-    ],
+    origin: function (origin, callback) {
+        if (
+            !origin ||
+            origin === "http://localhost:5173" ||
+            origin.endsWith(".vercel.app")
+        ) {
+            callback(null, true);
+        } else {
+            callback(new Error("Not allowed by CORS"));
+        }
+    },
     credentials: true,
 }));
 app.use("/api/auth",authRoutes);
