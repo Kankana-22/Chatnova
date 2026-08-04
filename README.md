@@ -46,12 +46,10 @@ STREAM_API_KEY=your_stream_api_key
 STREAM_API_SECRET=your_stream_api_secret
 ```
 
-## 🚀 Live Demo
+## 📸 Demo
 
-🌐 **Live Application:**  
-https://chatnova-ccs8raxdp-kankanas-projects-2f4bb06e.vercel.app
+- **Live Demo:** [ChatNova](https://chatnova-ccs8raxdp-kankanas-projects-2f4bb06e.vercel.app)
 
-🎥 **Demo Video:**  
-https://drive.google.com/file/d/1P6c0qz2ZXHSmEMg28eQy17m0bGpEjFvU/view?usp=sharing
+- **Demo Video:** [Watch Here](https://drive.google.com/file/d/1P6c0qz2ZXHSmEMg28eQy17m0bGpEjFvU/view?usp=sharing)
 ---
 
